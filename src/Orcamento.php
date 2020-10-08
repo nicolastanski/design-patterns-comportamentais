@@ -3,6 +3,6 @@
 namespace Alura\DesignPattern;
 
 class Orcamento {
-    private  $valor;
+    public  $valor;
 
 }
