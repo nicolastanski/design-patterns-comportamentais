@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\DesignPattern;
+namespace Alura\DesignPattern\Impostos;
 
 use Alura\DesignPattern\Orcamento;
 

@@ -2,7 +2,7 @@
 
 namespace Alura\DesignPattern;
 
-use Alura\DesignPattern\Imposto;
+use Alura\DesignPattern\Impostos\Imposto;
 use Alura\DesignPattern\Orcamento;
 
 class CalculadoraDeImpostos

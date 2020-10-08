@@ -2,7 +2,9 @@
 
 namespace Alura\DesignPattern;
 
-class Orcamento {
-    public  $valor;
+class Orcamento
+{
+    public float $quantidadeItens;
 
+    public float $valor;
 }
